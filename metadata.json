@@ -1,0 +1,5 @@
+{
+  "name": "Music Video Creator",
+  "description": "Create stunning music videos by animating an image with a descriptive prompt and synchronizing it with your favorite background music. Customize aspect ratio, quality, and duration for the perfect visual experience.",
+  "requestFramePermissions": []
+}
